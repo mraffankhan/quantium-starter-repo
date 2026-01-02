@@ -1,0 +1,13 @@
+--- Sales Analysis Report ---
+Price Increase Date: 2021-01-15
+------------------------------
+Total Sales BEFORE price increase: $7,092,843.00
+Total Sales AFTER  price increase: $3,552,740.00
+------------------------------
+Conclusion: Sales were LOWER after the price increase.
+Decrease: $3,540,103.00 (-49.91%)
+
+(Note: This simple comparison of totals works best if the time periods are roughly equal length.
+ Days Before: 1074, Days After: 396)
+ Avg Daily Sales Before: $6,604.14
+ Avg Daily Sales After:  $8,971.57
