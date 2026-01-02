@@ -4,7 +4,7 @@
 This repository contains the completed tasks for the Quantium Data Analytics Virtual Experience. The project demonstrates the setup of a Python development environment, data processing pipelines, and the creation of Dash applications.
 
 ## Project Structure
-The project is organized into four specific tasks:
+The project is organized into five specific tasks:
 
 ### [Task 1: Environment Setup](./task-1-environment-setup)
 Verification app to ensure Python and Dash dependencies are working.
@@ -20,6 +20,11 @@ An enhanced Dash application featuring:
 -   **Region Filtering**: Interactive radio buttons.
 -   **Dynamic Charts**: Real-time updates based on user selection.
 -   **Styled UI**: Improved layout and design.
+
+### [Task 5: Dash App Testing](./task-5-dash-testing)
+A dedicated testing suite for the Task 4 application.
+-   **Tests**: Verify component presence (Header, Graph, RadioItems).
+-   **Integration**: Imports the app from Task 4 without modifying it.
 
 ## How to Navigate
 Each folder contains its own `README.md` with specific running instructions.
